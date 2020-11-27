@@ -1,4 +1,4 @@
-
+-- Copyright (c) 2020 James J. Cook
 -- Simple wrapper for libmygmp.dll
 
 -- Written for Euphoria v4.0.5
