@@ -1,4 +1,4 @@
-
+// Copyright (c) 2020 James J. Cook
 // Contains functions for wrapping GMP and MPFR functions.
 
 // Status:

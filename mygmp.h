@@ -1,4 +1,4 @@
-
+// Copyright (c) 2020 James J. Cook
 // Contains prototypes to most of the major GMP and MPFR functions.
 
 // See "mygmp.c" for details.
