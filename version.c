@@ -1,4 +1,4 @@
-
+// Copyright (c) 2020 James J. Cook
 // Informational program, version.c
 
 // compile with:

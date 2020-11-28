@@ -1,3 +1,4 @@
+REM Copyright (c) 2020 James J. Cook
 rem Note: Any "make" program should work, I'm using "gmake"
 rem call setup_vars.bat
 pause
